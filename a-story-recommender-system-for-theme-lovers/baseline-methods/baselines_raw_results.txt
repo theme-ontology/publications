@@ -1,0 +1,227 @@
+
+Size of the dictionary: 14262
+Training models
+TFIDF
+BENCHMARK STORYSET                         MAP      P@10
+Alien_overseer                           0.033795 0.0125
+Betrayal                                 0.096625 0.095
+Desire_for_vengeance                     0.08299 0.058824
+Father_and_son                           0.125429 0.175758
+Ferengi                                  0.090451 0.036364
+Fight_to_the_death                       0.086539 0.077778
+Interfering_in_less_advanced_societies   0.076429 0.046875
+Lust_for_gold                            0.065146 0.016
+Man_against_captivity                    0.071342 0.041176
+Man_against_nature                       0.072173 0.089474
+Meet_one's_self                          0.097334 0.121429
+Mother_and_daughter                      0.233474 0.246154
+Newfound_magical_powers                  0.041568 0.05
+Obsession                                0.07321 0.024242
+Quest_for_immortality                    0.022894 0.0
+Physical_disability                      0.085705 0.106667
+Ship_takeover                            0.090948 0.083871
+Time_travel                              0.103986 0.137931
+Worf                                     0.432533 0.464286
+Recreation_gone_wrong                    0.043084 0.018182
+Host_a_dignitary                         0.050759 0.013333
+Courtroom_drama                          0.042398 0.005556
+Diplomacy                                0.182943 0.159459
+Find_a_cure                              0.08946 0.11
+Religiously_themed                       0.071292 0.021212
+Global_catastrophic_risk                 0.233153 0.272414
+Family_affairs                           0.426831 0.411892
+Tough_decision                           0.588161 0.563569
+AVERAGE                                  0.132523 0 6
+
+LSI-10
+BENCHMARK STORYSET                         MAP      P@10
+Alien_overseer                           0.030031 0.025
+Betrayal                                 0.098567 0.1025
+Desire_for_vengeance                     0.109117 0.120588
+Father_and_son                           0.096626 0.075758
+Ferengi                                  0.058887 0.036364
+Fight_to_the_death                       0.088479 0.094444
+Interfering_in_less_advanced_societies   0.092743 0.109375
+Lust_for_gold                            0.082196 0.064
+Man_against_captivity                    0.085138 0.097059
+Man_against_nature                       0.062094 0.073684
+Meet_one's_self                          0.058365 0.057143
+Mother_and_daughter                      0.065563 0.061538
+Newfound_magical_powers                  0.056771 0.05
+Obsession                                0.094213 0.112121
+Quest_for_immortality                    0.045643 0.033333
+Physical_disability                      0.068253 0.06
+Ship_takeover                            0.095319 0.125806
+Time_travel                              0.068629 0.044828
+Worf                                     0.129138 0.114286
+Recreation_gone_wrong                    0.033983 0.036364
+Host_a_dignitary                         0.056226 0.06
+Courtroom_drama                          0.056569 0.033333
+Diplomacy                                0.225536 0.260811
+Find_a_cure                              0.087387 0.093333
+Religiously_themed                       0.073742 0.045455
+Global_catastrophic_risk                 0.241291 0.243678
+Family_affairs                           0.434283 0.427027
+Tough_decision                           0.595087 0.609294
+AVERAGE                                  0.117496 0 6
+
+LSI-20
+BENCHMARK STORYSET                         MAP      P@10
+Alien_overseer                           0.035875 0.0375
+Betrayal                                 0.101294 0.09
+Desire_for_vengeance                     0.108603 0.114706
+Father_and_son                           0.112883 0.127273
+Ferengi                                  0.079581 0.081818
+Fight_to_the_death                       0.080856 0.055556
+Interfering_in_less_advanced_societies   0.098547 0.11875
+Lust_for_gold                            0.097427 0.076
+Man_against_captivity                    0.084356 0.073529
+Man_against_nature                       0.063703 0.057895
+Meet_one's_self                          0.055283 0.05
+Mother_and_daughter                      0.1004 0.146154
+Newfound_magical_powers                  0.03372 0.02
+Obsession                                0.090033 0.081818
+Quest_for_immortality                    0.041142 0.011111
+Physical_disability                      0.071676 0.06
+Ship_takeover                            0.08983 0.077419
+Time_travel                              0.07228 0.048276
+Worf                                     0.533479 0.542857
+Recreation_gone_wrong                    0.053994 0.063636
+Host_a_dignitary                         0.053802 0.053333
+Courtroom_drama                          0.052211 0.033333
+Diplomacy                                0.220612 0.228378
+Find_a_cure                              0.083375 0.093333
+Religiously_themed                       0.075334 0.045455
+Global_catastrophic_risk                 0.242613 0.242529
+Family_affairs                           0.425342 0.435676
+Tough_decision                           0.59888 0.597398
+AVERAGE                                  0.134183 0 6
+
+LSI-40
+BENCHMARK STORYSET                         MAP      P@10
+Alien_overseer                           0.03614 0.0375
+Betrayal                                 0.106919 0.0975
+Desire_for_vengeance                     0.102352 0.114706
+Father_and_son                           0.111323 0.118182
+Ferengi                                  0.062333 0.063636
+Fight_to_the_death                       0.085708 0.077778
+Interfering_in_less_advanced_societies   0.101727 0.115625
+Lust_for_gold                            0.105386 0.076
+Man_against_captivity                    0.083598 0.076471
+Man_against_nature                       0.063682 0.073684
+Meet_one's_self                          0.058657 0.05
+Mother_and_daughter                      0.19732 0.230769
+Newfound_magical_powers                  0.041448 0.04
+Obsession                                0.08978 0.075758
+Quest_for_immortality                    0.038174 0.011111
+Physical_disability                      0.072643 0.06
+Ship_takeover                            0.09805 0.106452
+Time_travel                              0.078214 0.072414
+Worf                                     0.530823 0.535714
+Recreation_gone_wrong                    0.073741 0.063636
+Host_a_dignitary                         0.054524 0.06
+Courtroom_drama                          0.05102 0.038889
+Diplomacy                                0.222955 0.239189
+Find_a_cure                              0.086074 0.1
+Religiously_themed                       0.078588 0.051515
+Global_catastrophic_risk                 0.24238 0.243678
+Family_affairs                           0.417925 0.404324
+Tough_decision                           0.596326 0.606691
+AVERAGE                                  0.13885 0 6
+
+LSI-80
+BENCHMARK STORYSET                         MAP      P@10
+Alien_overseer                           0.041181 0.0375
+Betrayal                                 0.10128 0.075
+Desire_for_vengeance                     0.094329 0.079412
+Father_and_son                           0.118213 0.139394
+Ferengi                                  0.060914 0.036364
+Fight_to_the_death                       0.083015 0.094444
+Interfering_in_less_advanced_societies   0.100193 0.121875
+Lust_for_gold                            0.097433 0.068
+Man_against_captivity                    0.083284 0.073529
+Man_against_nature                       0.070939 0.1
+Meet_one's_self                          0.063306 0.057143
+Mother_and_daughter                      0.190816 0.223077
+Newfound_magical_powers                  0.033669 0.04
+Obsession                                0.089788 0.072727
+Quest_for_immortality                    0.039071 0.022222
+Physical_disability                      0.074589 0.073333
+Ship_takeover                            0.095249 0.083871
+Time_travel                              0.080926 0.068966
+Worf                                     0.534935 0.514286
+Recreation_gone_wrong                    0.054941 0.054545
+Host_a_dignitary                         0.057768 0.033333
+Courtroom_drama                          0.049086 0.033333
+Diplomacy                                0.216471 0.206757
+Find_a_cure                              0.093001 0.083333
+Religiously_themed                       0.077758 0.048485
+Global_catastrophic_risk                 0.247728 0.263218
+Family_affairs                           0.415029 0.398919
+Tough_decision                           0.599328 0.628625
+AVERAGE                                  0.138009 0 6
+
+LSI-160
+BENCHMARK STORYSET                         MAP      P@10
+Alien_overseer                           0.056236 0.0375
+Betrayal                                 0.096502 0.07
+Desire_for_vengeance                     0.0904 0.067647
+Father_and_son                           0.119612 0.148485
+Ferengi                                  0.074085 0.027273
+Fight_to_the_death                       0.082687 0.066667
+Interfering_in_less_advanced_societies   0.095903 0.1125
+Lust_for_gold                            0.0927 0.064
+Man_against_captivity                    0.085107 0.070588
+Man_against_nature                       0.075177 0.115789
+Meet_one's_self                          0.065776 0.05
+Mother_and_daughter                      0.188783 0.230769
+Newfound_magical_powers                  0.031948 0.03
+Obsession                                0.084507 0.057576
+Quest_for_immortality                    0.037312 0.011111
+Physical_disability                      0.076775 0.086667
+Ship_takeover                            0.091862 0.067742
+Time_travel                              0.082557 0.086207
+Worf                                     0.518386 0.542857
+Recreation_gone_wrong                    0.059544 0.045455
+Host_a_dignitary                         0.049103 0.02
+Courtroom_drama                          0.047098 0.016667
+Diplomacy                                0.206583 0.17027
+Find_a_cure                              0.093726 0.1
+Religiously_themed                       0.072757 0.042424
+Global_catastrophic_risk                 0.247602 0.262069
+Family_affairs                           0.417357 0.409189
+Tough_decision                           0.597587 0.613011
+AVERAGE                                  0.13706 0 6
+
+LSI-320
+BENCHMARK STORYSET                         MAP      P@10
+Alien_overseer                           0.050093 0.0625
+Betrayal                                 0.094349 0.0625
+Desire_for_vengeance                     0.092173 0.070588
+Father_and_son                           0.120786 0.157576
+Ferengi                                  0.07128 0.027273
+Fight_to_the_death                       0.080083 0.066667
+Interfering_in_less_advanced_societies   0.087616 0.0625
+Lust_for_gold                            0.084565 0.04
+Man_against_captivity                    0.082935 0.088235
+Man_against_nature                       0.077227 0.110526
+Meet_one's_self                          0.073376 0.064286
+Mother_and_daughter                      0.176169 0.207692
+Newfound_magical_powers                  0.034615 0.04
+Obsession                                0.083039 0.045455
+Quest_for_immortality                    0.027885 0.0
+Physical_disability                      0.083135 0.093333
+Ship_takeover                            0.091571 0.058065
+Time_travel                              0.085977 0.096552
+Worf                                     0.531912 0.571429
+Recreation_gone_wrong                    0.046533 0.027273
+Host_a_dignitary                         0.046066 0.006667
+Courtroom_drama                          0.046237 0.022222
+Diplomacy                                0.198576 0.140541
+Find_a_cure                              0.091753 0.113333
+Religiously_themed                       0.069999 0.024242
+Global_catastrophic_risk                 0.246565 0.28046
+Family_affairs                           0.413353 0.398919
+Tough_decision                           0.593966 0.589219
+AVERAGE                                  0.135066 0 6
+
